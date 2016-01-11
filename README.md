@@ -2,6 +2,8 @@
 
 This repository is a mirror of the following site:
 
+|     Key     |                          Value                          |
+|-------------|---------------------------------------------------------|
 | Site title  | Death Row Information - Texas Dept. of Criminal Justice |
 | URL         | http://www.tdcj.state.tx.us/death_row/                  |
 | Mirrored at | 2016-01-11 07:16:39                                     |
