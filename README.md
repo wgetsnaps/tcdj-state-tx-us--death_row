@@ -8,7 +8,7 @@ This repository is a mirror of the following site:
 
 You can view the mirrored version by visiting this URL:
 
-http://wgetsnaps.github.io/tdcj-state-tx-us--death_row/death_row/
+http://wgetsnaps.github.io/tdcj-state-tx-us--death_row/death_row/index.html
 
 
 # How to wget
