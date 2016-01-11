@@ -1,16 +1,20 @@
 # Snapshot of Texas Death Penalty site
 
-This repository is a mirror of the following site:
-
-|     Key     |                          Value                          |
-|-------------|---------------------------------------------------------|
-| Site title  | Death Row Information - Texas Dept. of Criminal Justice |
-| URL         | http://www.tdcj.state.tx.us/death_row/                  |
-| Mirrored at | 2016-01-11 07:16:39                                     |
-
 You can view the mirrored version by visiting this URL:
 
 http://wgetsnaps.github.io/tdcj-state-tx-us--death_row/death_row/index.html
+
+
+This repository is a mirror of the following site:
+
+|        Key         |                 Value                  |
+|--------------------|----------------------------------------|
+| Site title         | Death Row Information                  |
+| Original publisher | Texas Dept. of Criminal Justice        |
+| URL                | http://www.tdcj.state.tx.us/death_row/ |
+| Mirrored at        | 2016-01-11 07:16:39                    |
+
+
 
 
 # How to wget
